@@ -1,0 +1,12 @@
+C:\Users\Dirk\source\repos\Opdracht1\Opdracht1\bin\Debug\netcoreapp3.1\Opdracht1.exe
+C:\Users\Dirk\source\repos\Opdracht1\Opdracht1\bin\Debug\netcoreapp3.1\Opdracht1.deps.json
+C:\Users\Dirk\source\repos\Opdracht1\Opdracht1\bin\Debug\netcoreapp3.1\Opdracht1.runtimeconfig.json
+C:\Users\Dirk\source\repos\Opdracht1\Opdracht1\bin\Debug\netcoreapp3.1\Opdracht1.runtimeconfig.dev.json
+C:\Users\Dirk\source\repos\Opdracht1\Opdracht1\bin\Debug\netcoreapp3.1\Opdracht1.dll
+C:\Users\Dirk\source\repos\Opdracht1\Opdracht1\bin\Debug\netcoreapp3.1\Opdracht1.pdb
+C:\Users\Dirk\source\repos\Opdracht1\Opdracht1\obj\Debug\netcoreapp3.1\Opdracht1.csprojAssemblyReference.cache
+C:\Users\Dirk\source\repos\Opdracht1\Opdracht1\obj\Debug\netcoreapp3.1\Opdracht1.AssemblyInfoInputs.cache
+C:\Users\Dirk\source\repos\Opdracht1\Opdracht1\obj\Debug\netcoreapp3.1\Opdracht1.AssemblyInfo.cs
+C:\Users\Dirk\source\repos\Opdracht1\Opdracht1\obj\Debug\netcoreapp3.1\Opdracht1.dll
+C:\Users\Dirk\source\repos\Opdracht1\Opdracht1\obj\Debug\netcoreapp3.1\Opdracht1.pdb
+C:\Users\Dirk\source\repos\Opdracht1\Opdracht1\obj\Debug\netcoreapp3.1\Opdracht1.genruntimeconfig.cache
