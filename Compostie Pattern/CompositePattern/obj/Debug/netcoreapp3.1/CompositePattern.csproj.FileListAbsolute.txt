@@ -1,0 +1,38 @@
+C:\Users\Dirk\source\repos\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.exe
+C:\Users\Dirk\source\repos\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.deps.json
+C:\Users\Dirk\source\repos\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.runtimeconfig.json
+C:\Users\Dirk\source\repos\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.runtimeconfig.dev.json
+C:\Users\Dirk\source\repos\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.dll
+C:\Users\Dirk\source\repos\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.pdb
+C:\Users\Dirk\source\repos\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.csprojAssemblyReference.cache
+C:\Users\Dirk\source\repos\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.AssemblyInfoInputs.cache
+C:\Users\Dirk\source\repos\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.AssemblyInfo.cs
+C:\Users\Dirk\source\repos\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.dll
+C:\Users\Dirk\source\repos\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.pdb
+C:\Users\Dirk\source\repos\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.genruntimeconfig.cache
+C:\Users\Dirk\source\repos\CodeDesignPatterns\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.exe
+C:\Users\Dirk\source\repos\CodeDesignPatterns\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.deps.json
+C:\Users\Dirk\source\repos\CodeDesignPatterns\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.runtimeconfig.json
+C:\Users\Dirk\source\repos\CodeDesignPatterns\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.runtimeconfig.dev.json
+C:\Users\Dirk\source\repos\CodeDesignPatterns\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.dll
+C:\Users\Dirk\source\repos\CodeDesignPatterns\CompositePattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.pdb
+C:\Users\Dirk\source\repos\CodeDesignPatterns\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.csprojAssemblyReference.cache
+C:\Users\Dirk\source\repos\CodeDesignPatterns\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.AssemblyInfoInputs.cache
+C:\Users\Dirk\source\repos\CodeDesignPatterns\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.AssemblyInfo.cs
+C:\Users\Dirk\source\repos\CodeDesignPatterns\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\Dirk\source\repos\CodeDesignPatterns\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.dll
+C:\Users\Dirk\source\repos\CodeDesignPatterns\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.pdb
+C:\Users\Dirk\source\repos\CodeDesignPatterns\CompositePattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.genruntimeconfig.cache
+G:\Desktop\Compostie Pattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.exe
+G:\Desktop\Compostie Pattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.deps.json
+G:\Desktop\Compostie Pattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.runtimeconfig.json
+G:\Desktop\Compostie Pattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.runtimeconfig.dev.json
+G:\Desktop\Compostie Pattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.dll
+G:\Desktop\Compostie Pattern\CompositePattern\bin\Debug\netcoreapp3.1\CompositePattern.pdb
+G:\Desktop\Compostie Pattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.csprojAssemblyReference.cache
+G:\Desktop\Compostie Pattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.AssemblyInfoInputs.cache
+G:\Desktop\Compostie Pattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.AssemblyInfo.cs
+G:\Desktop\Compostie Pattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.csproj.CoreCompileInputs.cache
+G:\Desktop\Compostie Pattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.dll
+G:\Desktop\Compostie Pattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.pdb
+G:\Desktop\Compostie Pattern\CompositePattern\obj\Debug\netcoreapp3.1\CompositePattern.genruntimeconfig.cache
