@@ -1,0 +1,12 @@
+C:\Users\Dirk\RiderProjects\ConsoleApplication2\OefeningDecorator\bin\Debug\OefeningDecorator.exe
+C:\Users\Dirk\RiderProjects\ConsoleApplication2\OefeningDecorator\bin\Debug\OefeningDecorator.pdb
+C:\Users\Dirk\RiderProjects\ConsoleApplication2\OefeningDecorator\obj\Debug\OefeningDecorator.csprojAssemblyReference.cache
+C:\Users\Dirk\RiderProjects\ConsoleApplication2\OefeningDecorator\obj\Debug\OefeningDecorator.csproj.CoreCompileInputs.cache
+C:\Users\Dirk\RiderProjects\ConsoleApplication2\OefeningDecorator\obj\Debug\OefeningDecorator.exe
+C:\Users\Dirk\RiderProjects\ConsoleApplication2\OefeningDecorator\obj\Debug\OefeningDecorator.pdb
+G:\Desktop\OefeningDecorator\OefeningDecorator\bin\Debug\OefeningDecorator.exe
+G:\Desktop\OefeningDecorator\OefeningDecorator\bin\Debug\OefeningDecorator.pdb
+G:\Desktop\OefeningDecorator\OefeningDecorator\obj\Debug\OefeningDecorator.csprojAssemblyReference.cache
+G:\Desktop\OefeningDecorator\OefeningDecorator\obj\Debug\OefeningDecorator.csproj.CoreCompileInputs.cache
+G:\Desktop\OefeningDecorator\OefeningDecorator\obj\Debug\OefeningDecorator.exe
+G:\Desktop\OefeningDecorator\OefeningDecorator\obj\Debug\OefeningDecorator.pdb
